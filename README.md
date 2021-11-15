@@ -14,7 +14,7 @@ I'm Nitin Sagar a Full Stack Web Developer and UX/UI designer.I Spend most of ti
 
 - :computer: I'm a full stack web developer
 - 🤔 Curious, Introvert but loquacious person
-- 📫 How to reach me: islempenywis@gmail.com.
+- 📫 How to reach me: nitinsagar309@gmail.com
 - 😄 I'm working on my portfolio project currently and few personal projects.       Although I'm ready to contribute my part in any freelance project/work.
 - ⚡ Fun fact: I play games and love watching naruto in loop.
 
