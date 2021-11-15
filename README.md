@@ -43,7 +43,7 @@ I'm Nitin Sagar a Full Stack Web Developer and UX/UI designer.I Spend most of ti
 
 <br >
 
-I love Chai, Would love to talk on any topic [unless it's boring]. 
+I'm currently based in Jaipur, Rajasthan but I would love to relocate for any opportunity in my current field.
 
 
 #### Github Stats
